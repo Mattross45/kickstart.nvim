@@ -126,4 +126,4 @@ vim.api.nvim_create_autocmd('TextYankPost', {
 -- vim: ts=2 sts=2 sw=2 et
 
 -- Import lazy for plugins
-require 'lua.custom.lazy'
+require 'custom.lazy'
